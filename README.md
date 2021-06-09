@@ -1,6 +1,6 @@
 # node-template
 
-> Personal template for back-end Node.js projects.
+> Personal template for Node.js projects.
 
 ## Installation
 
