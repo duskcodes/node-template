@@ -21,8 +21,8 @@
 
 | Purpose        | Package     | Config file          |
 | -------------- | ----------- | -------------------- |
-| Linting        | ESLint      | `.eslintrc.json`     |
-| Formatting     | Prettier    | `.prettierrc.json`   |
+| Linter         | ESLint      | `.eslintrc.json`     |
+| Formatter      | Prettier    | `.prettierrc.json`   |
 | Git hooks      | Husky       | `.huskyrc.json`      |
 | Lint runner    | lint-staged | `.lintstagedrc.json` |
 | VS Code config |             | `jsconfig.json`      |
